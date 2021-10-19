@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fas.fa-chevron-down,
+.fas.fa-chevron-right,
+.fas.fa-times {
+  cursor: pointer;
+}
+
+.fas.fa-times {
+  color: red;
+  float: right;
+}
